@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-&)bvgs(671lqyyqjw_5fzf8^*!uv*7ert+-4*j9d2dc25#l3lz
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["api.wordsuit.net"]
 
 
 # Application definition
